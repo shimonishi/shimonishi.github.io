@@ -146,7 +146,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #191c7f 0%,#4ea3e5 100%);
+/*  background: linear-gradient(135deg, #191c7f 0%,#4ea3e5 100%); */
   opacity: 0.8;
 }
 #slider .block {
@@ -391,7 +391,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+/*  background: url("../img/slider-bg.jpg") no-repeat; */
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -407,7 +407,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #191c7f 0%,#4ea3e5 100%);
+/*  background: linear-gradient(135deg, #191c7f 0%,#4ea3e5 100%); */
   opacity: 0.8;
 }
 #global-header .block {
