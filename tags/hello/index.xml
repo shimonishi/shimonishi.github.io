@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello on Site Name</title>
+    <title>Hello on PIXYZ</title>
     <link>/tags/hello/</link>
-    <description>Recent content in Hello on Site Name</description>
+    <description>Recent content in Hello on PIXYZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>これはサンプルの投稿です</title>
-      <link>/blog/post01/</link>
+      <link>/__old/blog/post01/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/blog/post01/</guid>
+      <guid>/__old/blog/post01/</guid>
       <description>これはサンプルの投稿です。これはサンプルの投稿です。これはサンプルの投稿です。これはサンプルの投稿です。これはサンプルの投稿です。
 ##百人一首1〜10まで
 テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
