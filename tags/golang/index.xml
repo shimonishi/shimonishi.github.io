@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on PIXYZ</title>
+    <title>Golang on Pixyz</title>
     <link>/tags/golang/</link>
-    <description>Recent content in Golang on PIXYZ</description>
+    <description>Recent content in Golang on Pixyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Dec 2018 21:49:20 +0200</lastBuildDate>
